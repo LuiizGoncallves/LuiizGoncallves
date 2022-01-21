@@ -1,5 +1,5 @@
 # Hi, I'm Luiz Gonçalves 👋📚
-I'm a System analyst at DMA Electronics and I've been study in tech since 2014. I studied telecommunications engineering at UNESP and currently Information Technology Management at FATEC. I'm from city Duartina, and I'm currently living in Itapira.
+I'm a System analyst at DMA Electronics and I've been study in tech since 2014. I studied telecommunications engineering at UNESP and currently Computer Engineering at USF. I'm from city Duartina, and I'm currently living in Campinas.
 
 ### Main language
 ![](https://camo.githubusercontent.com/aae05670916876848fca0e5da6c59bb40c50ec3b07a0101ecc6502000468b240/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742532302d2532333030374143432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465) ![](https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
